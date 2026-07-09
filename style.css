@@ -1,0 +1,26 @@
+img{
+  position: absolute;
+}
+
+.shouchou{
+  width: 120px;
+  transition: all 1s
+}
+
+.daichou{
+  width: 300px;
+  transition: all 3s
+}
+
+.foo{
+  width: 60px;
+  transition:  all 0.5s
+}
+
+#backimg0{
+  left:0;
+  top:0;
+}
+
+#bt0{
+  
