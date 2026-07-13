@@ -14,13 +14,57 @@ img{
 
 .foo{
   width: 60px;
-  transition:  all 0.5s
+  transition: all 0.5s
 }
 
 #backimg0{
   left:0;
   top:0;
 }
+#backimg1{
+  left:0;
+  top:0;
+}
 
 #bt0{
-  
+  left:100px;
+  top:100px;
+}
+#bt1{
+  left:300px;
+  top:300px;
+}
+#bt2{
+  left:500px;
+  top:300px;
+}
+#bt3{
+  left:100px;
+  top:50px;
+}
+#foo0{
+  left:300px;
+  top:50px;
+}
+#foo1{
+  left:400px;
+  top:100px;
+}
+#foo2{
+  left:350px;
+  top:100px;
+}
+
+#message{
+  position: absolute;
+  z-index: 1;
+  width:400px;
+  height:200px;
+  left:20px;
+  top:20px;
+  background-color: rgb(255,255,255,0.5);
+  font-size: 30px;
+  color: red;
+  padding: 20px;
+}
+}
